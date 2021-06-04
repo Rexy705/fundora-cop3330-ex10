@@ -1,3 +1,5 @@
+package ex10;
+
 import java.util.Scanner;
 
 public class ex10 {
